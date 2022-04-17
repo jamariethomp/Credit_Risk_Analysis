@@ -4,7 +4,7 @@
 
 Determining the frequency of credit risk in a large population is a task that may be well-suited to machine learning. Machine learning can utilize algorithms to help us predict an outcome given a certain set of factors, and thus may help us determine the potential for high credit risk in an individual. This analysis seeks to employ different techniques to train and evaluate models with unbalanced classes, which applies to credit risk since there are many more people in the "low-risk" category than in the "high-risk" category. Using a credit card credit dataset from LendingClub, a peer-to-peer lending services company, the data has been resampled and applied to several differnent machine learning models, including RandomOverSampler, SMOTE,  ClusterCentroids, SMOTEENN, BalancedRandomForestClassifier, and EasyEnsembleClassifier.
 
-Results:
+ ## Results:
 
 - RandomOverSampler
 
