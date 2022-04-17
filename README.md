@@ -79,4 +79,4 @@ The accuracy here might not be as high as we would need it to be in order to det
 
 For the most part, our models do not offer us enough confidence that a particular applicant might have a high credit risk based purely on the factors provided. With the information and machine learning models provided, it is simply too difficult to determine high risk where there is not enough data from high-risk applicants to support an effective algorithm.
 
-While the models at hand should not be used alone to determine credit risk, the EasyEnsembleClassifier model is rather accurate, and may be used as a supplement in addition to additional information, to determine credit risk.
+While the models at hand should not be used alone to determine credit risk, the EasyEnsembleClassifier model is rather accurate, and may be used as a supplement in addition to more information in determining credit risk.
